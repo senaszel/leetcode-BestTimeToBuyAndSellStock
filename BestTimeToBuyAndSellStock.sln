@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{CE802FB3-9F94-4023-A076-57DB2439DC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockTests", "BestTimeToBuyAndSellStockTests\BestTimeToBuyAndSellStockTests.csproj", "{B702699E-3742-4926-8238-05E8A3A71584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE802FB3-9F94-4023-A076-57DB2439DC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE802FB3-9F94-4023-A076-57DB2439DC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE802FB3-9F94-4023-A076-57DB2439DC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE802FB3-9F94-4023-A076-57DB2439DC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B702699E-3742-4926-8238-05E8A3A71584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B702699E-3742-4926-8238-05E8A3A71584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B702699E-3742-4926-8238-05E8A3A71584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B702699E-3742-4926-8238-05E8A3A71584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65117A4-1B15-417D-80D9-EAA386E83F57}
+	EndGlobalSection
+EndGlobal
